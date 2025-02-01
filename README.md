@@ -1,16 +1,8 @@
-# fitness
+# Diet UI App
 
-A new Flutter project.
+## Description
+Simple UI Diet App build with Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+![Captura de tela de 2025-02-01 17-39-36](https://github.com/user-attachments/assets/f38fbd7d-8a17-4ad2-a1ef-2336baa098f0)
+![Captura de tela de 2025-02-01 17-39-43](https://github.com/user-attachments/assets/da36cb5a-c53a-43d0-8584-58362e5a1015)
